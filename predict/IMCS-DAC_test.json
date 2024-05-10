@@ -1,0 +1,196 @@
+{
+  "10035922": [
+    {
+      "sentence_id": "1",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u4e2a\u5b69\u5b50\u9664\u4e86\u54b3\u55fd\u4ee5\u5916\uff0c\u8fd8\u6709\u5176\u4ed6\u7684\u75c7\u72b6\u5417\uff1f",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "2",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u524d1\u5468\u6709\u8116\u5b50\u5904\u6dcb\u5df4\u7ed3\u80bf\u5927",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "3",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u53d1\u70e7",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "4",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u4e2a\u5b69\u5b50\u65ad\u65ad\u7eed\u7eed\u7684\u54b3\u55fd\u6709\u591a\u957f\u65f6\u95f4\u4e86\uff1f",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "5",
+      "speaker": "\u60a3\u8005",
+      "sentence": "7\u6708\u4efd\u81f3\u4eca",
+      "dialogue_act": "Inform-Basic_Information"
+    },
+    {
+      "sentence_id": "6",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u4f60\u90fd\u8fdb\u884c\u8fc7\u4ec0\u4e48\u68c0\u67e5\uff1f",
+      "dialogue_act": "Request-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "7",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u53bb\u533b\u9662\u9a8c\u8fc7\u8840\uff0c\u8840\u9879\u90fd\u6b63\u5e38",
+      "dialogue_act": "Inform-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "8",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fdb\u884c\u8fc7\u80f8\u7247\u7684\u68c0\u67e5\u5417\uff1f",
+      "dialogue_act": "Request-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "9",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u6ca1\u6709\uff0c\u533b\u751f\u542c\u4e86\u8bf4\u6ca1\u6709\u5fc5\u8981\uff0c\u8bca\u65ad\u4e3a\u4e0a\u547c\u5438\u9053\u611f\u67d3\uff0c\u4f46\u81f3\u4eca\u672a\u75ca\u6108\uff0c\u65f6\u597d\u65f6\u574f",
+      "dialogue_act": "Diagnose"
+    },
+    {
+      "sentence_id": "10",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u5b69\u5b50\u65e2\u5f80\u6709\u6ca1\u6709\u5598\u606f\u53d1\u4f5c\uff0c\u5bb6\u65cf\u4e2d\u6709\u6ca1\u6709\u8fc7\u654f\u6027\u4f53\u8d28\u7684\u4eba\uff0c\u5c0f\u65f6\u5019\u6709\u6ca1\u6709\u6e7f\u75b9\u7684\u60c5\u51b5\uff1f",
+      "dialogue_act": "Request-Basic_Information"
+    },
+    {
+      "sentence_id": "11",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u4f60\u8bf4\u7684\u90fd\u6ca1\u6709",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "12",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u4e2a\u5b69\u5b50\u591c\u95f4\u54b3\u55fd\u91cd\uff0c\u8fd8\u662f\u767d\u5929\u54b3\u55fd\u91cd\uff1f",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "13",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u4ed6\u54b3\u55fd\u4e3b\u8981\u96c6\u4e2d\u5728\u65e9\u4e0a\u8d77\u5e8a\uff0c\u95f4\u63a5\u54b3\u55fd\u5341\u58f0\u5de6\u53f3\uff0c\u660e\u663e\u5e26\u75f0\uff0c\u4f46\u54b3\u4e0d\u51fa\u6765\uff0c\u665a\u95f4\u4e0d\u54b3",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "14",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u5634\u5507\u53d1\u767d",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "15",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u4e2a\u5b69\u5b50\u6709\u6ca1\u6709\u9f3b\u585e\uff0c\u6d41\u9f3b\u6d95\u7684\u60c5\u51b5\uff1f",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "16",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u6709\u8d2b\u8840\u5417\uff0c\u6709\u6ca1\u6709\u5176\u4ed6\u7684\u75be\u75c5\uff1f",
+      "dialogue_act": "Request-Basic_Information"
+    },
+    {
+      "sentence_id": "17",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u4e03\u5929\u524d\u53d1\u8fc7\u4e00\u6b21\u70e7\u548c\u6dcb\u5df4\u7ed3\u80bf\u5927\uff0c\u60a8\u8bf4\u7684\u75c7\u72b6\u90fd\u6ca1\u6709",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "18",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u8fd9\u4e2a\u5b69\u5b50\u53cd\u590d\u7684\u54b3\u55fd\u5e94\u8be5\u8fdb\u884c\u652f\u539f\u4f53\u7684\u68c0\u67e5",
+      "dialogue_act": "Inform-Medical_Advice"
+    },
+    {
+      "sentence_id": "19",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u7279\u522b\u662f\u5e74\u957f\u513f\uff0c\u5f88\u5bb9\u6613\u5408\u5e76\u652f\u539f\u4f53\u611f\u67d3\u3002",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "20",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u5728\u6392\u9664\u4e0a\u8ff0\u56e0\u7d20\u4ee5\u540e\uff0c\u9700\u8981\u8fdb\u884c\u80ba\u529f\u80fd\u7684\u68c0\u67e5\uff0c\u5373\u4fbf\u5bb6\u65cf\u4e2d\u6ca1\u6709\u7c7b\u4f3c\u7684\u75c5\u4f8b\uff0c\u4e5f\u9700\u8981\u6ce8\u610f\u652f\u6c14\u7ba1\u54ee\u5598\u6216\u8005\u8bf4\u8fc7\u654f\u6027\u54b3\u55fd\u7684\u53ef\u80fd",
+      "dialogue_act": "Inform-Medical_Advice"
+    },
+    {
+      "sentence_id": "21",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u8fd9\u5b69\u5b50\u4e00\u76f4\u4ee5\u6765\u90fd\u7279\u522b\u5bb9\u6613\u54b3\u55fd\uff0c\u66fe\u7ecf\u5f00\u8fc7\u589e\u52a0\u514d\u75ab\u529b\u7684\u836f\u5403\u4e86\u80fd\u597d\u70b9\uff0c\u4f46\u8fc7\u6bb5\u65f6\u95f4\u4e0d\u5403\uff0c\u518d\u6b21\u72af\u4e86\u5c31\u4e0d\u597d\u4e86",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "22",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u652f\u539f\u4f53\u611f\u67d3\u548c\u8fc7\u654f\u4f53\u8d28\u7684\u5b69\u5b50\uff0c\u90fd\u4f1a\u5bfc\u81f4\u514d\u75ab\u529f\u80fd\u4f4e\u4e0b\u3002\u7279\u522b\u662f\u652f\u6e90\u4f53\u611f\u67d3\u7684\u5b69\u5b50\uff0c\u4f1a\u5bfc\u81f4\u514d\u75ab\u529f\u80fd\u7684\u7d0a\u4e71\uff0c\u4f1a\u51fa\u73b0\u53cd\u590d\u7684\u547c\u5438\u9053\u611f\u67d3\u3002",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "23",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u53ef\u4ee5\u7ee7\u7eed\u5e94\u7528\u514d\u75ab\u8c03\u8282\u5242",
+      "dialogue_act": "Inform-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "24",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u957f\u671f\u670d\u7528\u514d\u75ab\u6027\u836f\u7269\uff0c\u4f1a\u5bf9\u5b69\u5b50\u8eab\u4f53\u9020\u6210\u4e0d\u826f\u5f71\u54cd\u5417",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "25",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u514d\u75ab\u8c03\u8282\u5242\u9700\u8981\u53e3\u670d\u7684\u65f6\u95f4\u8981\u957f\uff0c\u81f3\u5c11\u9700\u8981\u534a\u4e2a\u6708\uff0c\u77ed\u65f6\u95f4\u5185\u5e94\u7528\u6548\u679c\u4e0d\u660e\u663e\u3002\u5bf9\u5b69\u5b50\u7684\u8eab\u4f53\u6ca1\u6709\u592a\u5927\u7684\u5f71\u54cd",
+      "dialogue_act": "Inform-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "26",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u597d\u7684\uff0c\u8c22\u8c22\u4f60\u533b\u751f",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "27",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u4e0d\u5ba2\u6c14",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "28",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u4e00\u5b9a\u8981\u8fdb\u884c\u652f\u539f\u4f53\u7684\u68c0\u67e5",
+      "dialogue_act": "Inform-Medical_Advice"
+    },
+    {
+      "sentence_id": "29",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u597d\u7684\uff0c\u8c22\u8c22\u60a8\uff01",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "30",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u4e0d\u5ba2\u6c14",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "31",
+      "speaker": "\u533b\u751f",
+      "sentence": "\u6211\u53ef\u4ee5\u7ed3\u675f\u670d\u52a1\u4e86\u5417",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "32",
+      "speaker": "\u60a3\u8005",
+      "sentence": "\u53ef\u4ee5\u4e86",
+      "dialogue_act": "Other"
+    }
+  ]
+}
