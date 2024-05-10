@@ -64,7 +64,7 @@ def get_features(raw_examples,tokenizer,config):
 if __name__=='__main__':
     args=Args()
     raw_examples=Processor.get_examples('./data/IMCS-DAC_train.json',set_type='train')
-    tokenizer = BertTokenizer.from_pretrained(r'C:\Users\xss\Desktop\pretrain_models\bert-base-chinese')
+    tokenizer = BertTokenizer.from_pretrained('bert-base-chinese')
     features = get_features(raw_examples, tokenizer, args)
     i=0
     for feature in features:

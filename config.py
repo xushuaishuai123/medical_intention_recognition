@@ -3,7 +3,7 @@ class Args():
     eval_test = './data/IMCS-DAC_test.json'
     eval_path='./data/IMCS-DAC_dev.json'
     seq_labels_path = './data/dialogue_acts.txt'
-    bert_dir = r'C:\Users\xss\Desktop\pretrain_models\bert-base-chinese'
+    bert_dir = 'bert-base-chinese'
     save_dir = './checkpoints/'
     load_dir = './checkpoints/'
     do_train = True
