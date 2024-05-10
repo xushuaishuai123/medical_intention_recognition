@@ -1,0 +1,220 @@
+{
+  "10035395": [
+    {
+      "sentence_id": "1",
+      "speaker": "医生",
+      "sentence": "你好孩子咳嗽多长时间了",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "2",
+      "speaker": "患者",
+      "sentence": "有四五天了",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "3",
+      "speaker": "医生",
+      "sentence": "有发热吗",
+      "dialogue_act": "Request-Symptom"
+    },
+    {
+      "sentence_id": "4",
+      "speaker": "患者",
+      "sentence": "前几天不厉害",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "5",
+      "speaker": "患者",
+      "sentence": "没有",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "6",
+      "speaker": "患者",
+      "sentence": "昨天晚上咳的厉害，一咳起来就停不下来",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "7",
+      "speaker": "医生",
+      "sentence": "有做过什么检查吗",
+      "dialogue_act": "Request-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "8",
+      "speaker": "患者",
+      "sentence": "没有",
+      "dialogue_act": "Inform-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "9",
+      "speaker": "医生",
+      "sentence": "孩子小时候湿疹重不重平时易过敏吗",
+      "dialogue_act": "Request-Basic_Information"
+    },
+    {
+      "sentence_id": "10",
+      "speaker": "患者",
+      "sentence": "咳过一阵睡觉了就没事了",
+      "dialogue_act": "Inform-Symptom"
+    },
+    {
+      "sentence_id": "11",
+      "speaker": "患者",
+      "sentence": "不过敏啊",
+      "dialogue_act": "Inform-Basic_Information"
+    },
+    {
+      "sentence_id": "12",
+      "speaker": "医生",
+      "sentence": "孩子经常咳嗽吗",
+      "dialogue_act": "Request-Basic_Information"
+    },
+    {
+      "sentence_id": "13",
+      "speaker": "患者",
+      "sentence": "不是",
+      "dialogue_act": "Inform-Basic_Information"
+    },
+    {
+      "sentence_id": "14",
+      "speaker": "医生",
+      "sentence": "如果只是这一次出现这种情况的话最好带孩子去检查一下，让医生听一下肺部有没有问题，另外查下支原体血常规",
+      "dialogue_act": "Inform-Medical_Advice"
+    },
+    {
+      "sentence_id": "15",
+      "speaker": "患者",
+      "sentence": "嗯",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "16",
+      "speaker": "患者",
+      "sentence": "和吃东西有管吗",
+      "dialogue_act": "Request-Etiology"
+    },
+    {
+      "sentence_id": "17",
+      "speaker": "医生",
+      "sentence": "给孩子吃什么东西了",
+      "dialogue_act": "Request-Basic_Information"
+    },
+    {
+      "sentence_id": "18",
+      "speaker": "患者",
+      "sentence": "前两天吃了药，有好转，",
+      "dialogue_act": "Inform-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "19",
+      "speaker": "患者",
+      "sentence": "苹果，梨，还有西瓜，还有肉",
+      "dialogue_act": "Inform-Basic_Information"
+    },
+    {
+      "sentence_id": "20",
+      "speaker": "医生",
+      "sentence": "这些东西与咳嗽应该问题不大的",
+      "dialogue_act": "Inform-Etiology"
+    },
+    {
+      "sentence_id": "21",
+      "speaker": "医生",
+      "sentence": "孩子前一段时间吃什么药了吃了多长时间",
+      "dialogue_act": "Request-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "22",
+      "speaker": "患者",
+      "sentence": "吃的浦地蓝消炎口服液和咳嗽药",
+      "dialogue_act": "Inform-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "23",
+      "speaker": "患者",
+      "sentence": "吃了三天",
+      "dialogue_act": "Inform-Existing_Examination_and_Treatment"
+    },
+    {
+      "sentence_id": "24",
+      "speaker": "医生",
+      "sentence": "目前这种情况可以再给他吃几天药物然后让孩子勤喝水观察一下今晚如果咳嗽还严重的话要看医生",
+      "dialogue_act": "Inform-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "25",
+      "speaker": "患者",
+      "sentence": "嗯嗯好的，吃什么药好",
+      "dialogue_act": "Request-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "26",
+      "speaker": "医生",
+      "sentence": "前几天你吃蒲地蓝和止咳药有效果可以接着吃两天的",
+      "dialogue_act": "Inform-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "27",
+      "speaker": "医生",
+      "sentence": "至于消炎药类的要根据血化验决定的",
+      "dialogue_act": "Inform-Drug_Recommendation"
+    },
+    {
+      "sentence_id": "28",
+      "speaker": "患者",
+      "sentence": "嗯嗯好的",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "29",
+      "speaker": "患者",
+      "sentence": "吃什么饭好呢",
+      "dialogue_act": "Request-Precautions"
+    },
+    {
+      "sentence_id": "30",
+      "speaker": "医生",
+      "sentence": "平时正常饮食就可以清淡易消化的",
+      "dialogue_act": "Inform-Precautions"
+    },
+    {
+      "sentence_id": "31",
+      "speaker": "医生",
+      "sentence": "不要吃的过多过杂",
+      "dialogue_act": "Inform-Precautions"
+    },
+    {
+      "sentence_id": "32",
+      "speaker": "患者",
+      "sentence": "嗯",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "33",
+      "speaker": "医生",
+      "sentence": "还有其他问题吗没有的话我关了",
+      "dialogue_act": "Other"
+    },
+    {
+      "sentence_id": "34",
+      "speaker": "患者",
+      "sentence": "吃鸡蛋行吗",
+      "dialogue_act": "Request-Precautions"
+    },
+    {
+      "sentence_id": "35",
+      "speaker": "医生",
+      "sentence": "没有过敏可以的",
+      "dialogue_act": "Inform-Precautions"
+    },
+    {
+      "sentence_id": "36",
+      "speaker": "患者",
+      "sentence": "嗯好的谢谢",
+      "dialogue_act": "Other"
+    }
+  ]
+}

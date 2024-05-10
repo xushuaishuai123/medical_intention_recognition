@@ -1,0 +1,16 @@
+Other
+Inform-Existing_Examination_and_Treatment
+Request-Drug_Recommendation
+Inform-Medical_Advice
+Request-Etiology
+Inform-Precautions
+Request-Medical_Advice
+Inform-Etiology
+Request-Symptom
+Diagnose
+Request-Precautions
+Request-Existing_Examination_and_Treatment
+Request-Basic_Information
+Inform-Basic_Information
+Inform-Symptom
+Inform-Drug_Recommendation
